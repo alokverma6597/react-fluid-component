@@ -2,7 +2,7 @@
 # React Fluid Level Component
 **A React Component that based on D3 and use for liquid Cotainer.**
 
-[![npm](https://img.shields.io/npm/v/react-native-material-ui.svg)]
+![npm](https://img.shields.io/npm/v/react-native-material-ui.svg)
 [![npm](https://img.shields.io/npm/dm/react-native-material-ui.svg)](https://img.shields.io/npm/dm/react-native-material-ui.svg)
 ![Alok](https://img.shields.io/badge/byALoK-reactComponent-blue.svg)
 [![Dependencies](https://david-dm.org/xotahal/react-native-material-ui.svg)](https://david-dm.org/xotahal/react-native-material-ui.svg)
@@ -16,6 +16,36 @@ or
 $ yarn add react-fluid-component
 ```
 
+Overview
+--------
+A React Component that based on D3 and use for liquid Cotainer .
+
+```
+<FluidLevel id="fillguage" height={200} width={200} value={0.60} />
+
+```
+### Props in more detail:
+
+ See details about each key below.
+
+#### id
+
+Sets the id for Fluid Component and that is required props .
+
+
+#### height
+
+ Sets the height of the fluid Component .
+
+
+#### width
+
+  Sets the height of the fluid Component .
+
+#### value
+
+  A most important props for generating Fluid Level Component.Just pass the value like 0.50 for 50% and get the Fluid level Component fill up 50% .
+
 
 # Usage
 
@@ -24,7 +54,7 @@ $ yarn add react-fluid-component
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import FluidLevel from './component/pc_fluid_level';
+import FluidLevel from 'react-fluid-component';
 
 class App extends Component {
   render() {
@@ -44,3 +74,24 @@ export default App;
 ```
 
 <img src="https://raw.githubusercontent.com/alokverma6597/react-fluid-component/master/resources/FluidLevelDemo.png" width="285">
+
+# For Demo
+
+Clone the repo as a new project:
+
+```
+git clone https://github.com/alokverma6597/react-fluid-component <react-fluid-component>
+```
+Start Server:
+
+```
+cd react-npm-svg-component
+npm i
+npm start
+```
+Run App:
+
+```
+npm start command automatically initiate browser at 3000 port
+http:://localhost:3000
+```

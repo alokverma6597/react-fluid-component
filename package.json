@@ -1,7 +1,8 @@
 {
-  "name": "react-fluid",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-svg-component",
+  "version": "1.0",
+  "description": "A React Component that based on D3 and use for liquid Cotainer.",
+  "main": "lib/component/pc_fluid_level.js",
   "devDependencies": {
     "react-scripts": "0.9.2"
   },
@@ -10,6 +11,23 @@
     "react-d3-components": "^0.6.6",
     "react-dom": "^15.4.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alokverma6597/react-fluid-component"
+  },
+  "keywords": [
+    "react-component",
+    "react-fluid-component",
+    "react-d3",
+    "react-liquid",
+    "react-liquid-component",
+    "liquid",
+    "liquid-container",
+    "fluid-react",
+    "react-fluid-level-component"
+  ],
+  "author": "Alok Verma",
+  "homepage": "https://github.com/alokverma6597/react-fluid-component.git#REQUIREMENTS",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
