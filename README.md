@@ -2,10 +2,9 @@
 # React Fluid Level Component
 **A React Component that based on D3 and use for liquid Cotainer.**
 
-[![npm](https://img.shields.io/npm/v/react-native-material-ui.svg)](https://www.npmjs.com/package/react-native-material-ui)
-[![codecov](https://codecov.io/gh/xotahal/react-native-material-ui/branch/master/graph/badge.svg)](https://codecov.io/gh/xotahal/react-native-material-ui)
+[![npm](https://img.shields.io/npm/v/react-native-material-ui.svg)]
 [![npm](https://img.shields.io/npm/dm/react-native-material-ui.svg)](https://img.shields.io/npm/dm/react-native-material-ui.svg)
-[![Alok](https://img.shields.io/badge/byALoK-reactComponent-blue.svg)]
+![Alok](https://img.shields.io/badge/byALoK-reactComponent-blue.svg)
 [![Dependencies](https://david-dm.org/xotahal/react-native-material-ui.svg)](https://david-dm.org/xotahal/react-native-material-ui.svg)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/xotahal/react-native-material-ui/master/LICENSE)
 
@@ -44,4 +43,4 @@ class App extends Component {
 export default App;
 ```
 
-<img src="https://raw.githubusercontent.com/xotahal/react-/master/resources/FluidLevelDemo.png" width="285">
+<img src="https://raw.githubusercontent.com/alokverma6597/react-fluid-component/master/resources/FluidLevelDemo.png" width="285">
