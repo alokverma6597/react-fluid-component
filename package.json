@@ -27,7 +27,7 @@
     "react-fluid-level-component"
   ],
   "author": "Alok Verma",
-  "homepage": "https://github.com/alokverma6597/react-fluid-component.git#REQUIREMENTS",
+  "homepage": "https://github.com/alokverma6597/react-fluid-component.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
