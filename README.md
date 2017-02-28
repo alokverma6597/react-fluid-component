@@ -1,6 +1,6 @@
 
 # React Fluid Level Component
-**A React Component that based on D3 and use for liquid Cotainer.**
+**A React Component that based on D3 and use for liquid Container.**
 
 ![npm](https://img.shields.io/npm/v/react-native-material-ui.svg)
 [![npm](https://img.shields.io/npm/dm/react-native-material-ui.svg)](https://img.shields.io/npm/dm/react-native-material-ui.svg)
@@ -18,7 +18,7 @@ $ yarn add react-fluid-component
 
 Overview
 --------
-A React Component that based on D3 and use for liquid Cotainer .
+A React Component that based on D3 and use for liquid Container .
 
 ```
 <FluidLevel id="fillguage" height={200} width={200} value={0.60} />
