@@ -1,6 +1,6 @@
 {
   "name": "react-fluid-component",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A React Component that based on D3 and use for liquid Container.",
   "main": "lib/component/pc_fluid_level.js",
   "devDependencies": {

@@ -40,7 +40,7 @@ Sets the id for Fluid Component and that is required props .
 
 #### width
 
-  Sets the height of the fluid Component .
+  Sets the width of the fluid Component .
 
 #### value
 
@@ -85,7 +85,7 @@ git clone https://github.com/alokverma6597/react-fluid-component <react-fluid-co
 Start Server:
 
 ```
-cd react-npm-svg-component
+cd react-fluid-component
 npm i
 npm start
 ```
